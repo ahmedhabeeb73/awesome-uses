@@ -2875,26 +2875,6 @@ const pages = [
       'WordPress',
     ],
   },
-  {
-    name: 'Jerry Shi',
-    description:
-      'Full Stack, Motivated full-stack developer not afraid to use any technology.',
-    url: 'https://github.com/szy0syz/uses',
-    twitter: '@szy0syz',
-    emoji: '🦁',
-    country: '🇨🇳',
-    computer: 'apple',
-    phone: 'android',
-    tags: [
-      'Web Development',
-      'Front End',
-      'React',
-      'Node',
-      'Rust',
-      'Full Stack',
-      'GraphQL'
-    ],
-  },
   // 🚨 DO NOT ADD YOURSELF TO THE END OF THE ARRAY 🚨
   // IT CAUSES MERGE CONFLICT HEADACHES
 ];
@@ -3195,3 +3175,24 @@ export default pages;
 //   phone: 'android',
 //   tags: ['React', 'WordPress', 'Gatsby', 'JavaScript', 'Node'],
 // },
+  name: 'Ahmed Habeeb',
+    description: 'Full Stack Developer, Football Player',
+    url: 'https://ahmedhabeeb.net/uses',
+    twitter: '@ahmed_habeeb73',
+    emoji: '⚽',
+    country: 'IRAQ',
+    computer: 'Windows,linux',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Full Stack',
+      'Back End',
+      'Laravel',
+      'PHP',
+      'JavaScript',
+      'vue',
+      'node'
+    ],
+  },
+  {
+
